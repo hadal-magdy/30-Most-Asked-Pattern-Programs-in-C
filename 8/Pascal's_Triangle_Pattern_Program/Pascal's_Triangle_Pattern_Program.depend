@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709148461 source:g:\important_courses\00_embedded systems records\01_part 1 programming course\tasks\c\patterns\faceprep\7\pascal's_triangle_pattern_program\main.c
+	<stdio.h>
+	<stdlib.h>
+

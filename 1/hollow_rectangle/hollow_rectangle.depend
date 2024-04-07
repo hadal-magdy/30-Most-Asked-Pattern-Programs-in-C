@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1701542460 source:g:\important_courses\00_embedded systems records\01_part 1 programming course\tasks\patterns\hollow_rectangle\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hollow_rectangle_header.h"
+
+1701542446 g:\important_courses\00_embedded systems records\01_part 1 programming course\tasks\patterns\hollow_rectangle\hollow_rectangle_header.h
+

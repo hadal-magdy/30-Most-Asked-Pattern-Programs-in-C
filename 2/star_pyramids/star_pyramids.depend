@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1701816000 source:g:\important_courses\00_embedded systems records\01_part 1 programming course\tasks\patterns\star_pyramids\half_pyramid_star.c
+	<stdio.h>
+	<stdlib.h>
+
+1701816000 source:g:\important_courses\00_embedded systems records\01_part 1 programming course\tasks\patterns\star_pyramids\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1701816000 source:g:\important_courses\00_embedded systems records\01_part 1 programming course\tasks\patterns\star_pyramids\half_inverted_pyramid.c
+
+1701812486 source:g:\important_courses\00_embedded systems records\01_part 1 programming course\tasks\patterns\star_pyramids\full_pyramid_star.c
+

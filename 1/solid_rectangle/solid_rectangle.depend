@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701472660 source:g:\important_courses\00_embedded systems records\01_part 1 programming course\tasks\patterns\solid_rectangle\main.c
+	<stdio.h>
+	<stdlib.h>
+
